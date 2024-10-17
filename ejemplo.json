@@ -1,0 +1,6 @@
+{"curso": "mongo",
+"docente":"jorge",
+"estudiantes":["pepito","anita"],
+"activo": true,
+"rating":1,
+"contenido": null}
